@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "895548219606",
+    "firebase_url": "https://questiopapers.firebaseio.com",
+    "project_id": "questiopapers",
+    "storage_bucket": "questiopapers.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:895548219606:android:760c5dc4b08a9870",
+        "android_client_info": {
+          "package_name": "com.example.aishwarya_basayye.questio_papers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "895548219606-n7g2o9iku71o6rh212vkgnuf51ev0j0n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.aishwarya_basayye.questio_papers",
+            "certificate_hash": "05794f52e9456fb6ecd6b25875414aae13d3717c"
+          }
+        },
+        {
+          "client_id": "895548219606-kch5e1hucnmdosogh640io1m2h65k9pk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvgwwsxv5F7P8GRYbNY70KlmgMsaeOLvQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "895548219606-kch5e1hucnmdosogh640io1m2h65k9pk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

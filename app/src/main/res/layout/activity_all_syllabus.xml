@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="@drawable/lib1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.aishwarya_basayye.questio_papers.AllSyllabus">
+
+    <Button
+        android:id="@+id/FE"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:text="FE" />
+
+    <Button
+        android:id="@+id/SE"
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="SE" />
+
+    <Button
+        android:id="@+id/TE"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:text="TE" />
+
+    <Button
+        android:id="@+id/BE"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:text="BE" />
+</LinearLayout>

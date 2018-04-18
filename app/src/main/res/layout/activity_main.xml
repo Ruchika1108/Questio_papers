@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+
+    tools:context="com.example.aishwarya_basayye.questio_papers.MainActivity">
+
+
+    <GridView xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/gridview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:columnWidth="90dp"
+        android:gravity="center"
+        android:horizontalSpacing="10dp"
+        android:numColumns="2"
+        android:stretchMode="columnWidth"
+
+        android:verticalSpacing="20dp" />
+    <TextView
+        android:id="@+id/branch"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:textColor="@color/colorAccent"
+        android:textColorHighlight="@color/colorAccent"
+        android:textColorLink="@android:color/background_light"
+        android:textSize="18sp"
+        android:text="Select Branch"
+        tools:text="Select Branch" />
+
+
+
+
+
+</RelativeLayout>
+
+
+
+
